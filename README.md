@@ -24,5 +24,5 @@ O projeto conta com persistência completa de dados em arquivos `.txt`, consulta
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/vdmatosalves/sistema-gerenciamento-c.git](https://github.com/vdmatosalves/sistema-gerenciamento-c.git)
-   cd sistema-gerenciamento-c
+   git clone https://github.com/vdmatosalves/sistema-gerenciamento-c.git https://github.com/vdmatosalves/sistema-gerenciamento-c.git
+     cd sistema-gerenciamento-c
