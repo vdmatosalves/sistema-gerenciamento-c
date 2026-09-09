@@ -1,0 +1,14 @@
+# Executáveis e compilação
+*.exe
+bin/
+obj/
+*.cbp
+*.depend
+*.layout
+
+# IDE
+.vscode/
+
+# Arquivos de dados locais gerados em testes (opcional)
+# Descomente as linhas abaixo se NAO quiser subir os dados salvos em teste:
+# *.txt

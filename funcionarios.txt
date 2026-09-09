@@ -1,0 +1,7 @@
+5;Ana;8500.00
+8;Sandro Alves;6561.00
+10;Carlos;10500.00
+15;Vinicius;12000.00
+67;Kaue;66666.00
+70;Eliana Cristina;7000.00
+157;Miguel;1000000.00
